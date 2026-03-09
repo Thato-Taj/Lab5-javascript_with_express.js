@@ -1,8 +1,9 @@
 {
-  "name": "lab2",
+  "name": "lab5",
   "version": "1.0.0",
   "main": "2578750-lab5.js",
   "scripts": {
+    "start": "node 2578750-lab5.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,3 +14,7 @@
   },
   "description": ""
 }
+"scripts": {
+    "start": "node 2578750-lab5.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
